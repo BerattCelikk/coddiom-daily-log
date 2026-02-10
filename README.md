@@ -1,1 +1,2 @@
-# coddiom-daily-log
+# Coddiom Daily Engineering Log
+Günlük yazılım notları ve ipuçları.
