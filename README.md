@@ -1,6 +1,6 @@
 ## 🛠️ Draft Tip (10.02.2026)
 
-AI bu içeriği 10 denemede üretemedi.
+AI content generation exhausted retries.
 
 ```text
 // check logs
@@ -10,9 +10,10 @@ AI bu içeriği 10 denemede üretemedi.
 
 ---
 
+
 ## 🛠️ Draft Tip (10.02.2026)
 
-AI bu içeriği 10 denemede üretemedi.
+AI content generation exhausted retries.
 
 ```text
 // check logs
