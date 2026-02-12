@@ -1,25 +1,22 @@
-## 🛠️ Draft Tip (10.02.2026)
-
-AI content generation exhausted retries.
-
-```text
-// check logs
-```
-
-**Tags:** auto-fallback
+# 🚀 Coddiom Daily Engineering Log
 
 ---
 
+## 🛠️ Exploring Serverless Architecture Patterns (12.02.2026)
 
-## 🛠️ Draft Tip (10.02.2026)
+Serverless architecture allows developers to build and run applications without managing servers. It improves scalability and reduces operational costs.
 
-AI content generation exhausted retries.
+```javascript
+const AWS = require('aws-sdk');
+const lambda = new AWS.Lambda();
 
-```text
-// check logs
+exports.handler = async (event) => {
+  // Your logic here
+  return { statusCode: 200, body: 'Hello World!' };
+};
 ```
 
-**Tags:** auto-fallback
+**Tags:** serverless, architecture, AWS, lambda
 
 ---
 
