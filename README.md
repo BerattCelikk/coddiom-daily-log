@@ -1,25 +1,17 @@
-## 🛠️ Draft Tip (10.02.2026)
-
-AI content generation exhausted retries.
-
-```text
-// check logs
-```
-
-**Tags:** auto-fallback
+# 🚀 Coddiom Daily Engineering Log
 
 ---
 
+## 🛠️ PostgreSQL Advanced Indexing Techniques (12.02.2026)
 
-## 🛠️ Draft Tip (10.02.2026)
+Explore how advanced indexing strategies like partial indexes and expression indexes can optimize query performance in PostgreSQL.
 
-AI content generation exhausted retries.
-
-```text
-// check logs
+```sql
+CREATE INDEX idx_partial ON users (email) WHERE active = true;
+CREATE INDEX idx_expression ON orders ((lower(product_name));
 ```
 
-**Tags:** auto-fallback
+**Tags:** PostgreSQL, Indexing, Performance
 
 ---
 
